@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.container{ 
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;  
+    align-items: flex-start; 
+width: 550px;
+padding-bottom:20px;
+left: 76px;
+top: 126px;
+background: #F4F4F4;
+margin:0 auto;
+}
+.box-1{
+    /* display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-content: center; */
+width: 550px;
+padding-bottom: 50px;
+left: 0px;
+top: 0px;
+background: #6943FF;
+text-align:center;
+color:white;
+padding-left:0;
+padding-right:0;
+margin: 0 auto;    
+}
+
+.header{
+width:448.4px;
+height: 38px;
+left: 51px;
+top: 33px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 38px;
+text-align: center;
+letter-spacing: -0.03em;
+margin:0 auto;
+padding-top:10px; 
+}
+.input{  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 24px;
+text-align: center;
+margin:0 auto;
+padding-top:30px;
+width: 3.5em; 
+ height: 0.7em; 
+border: 2px solid #B295FF;
+border-radius: 5px;
+margin-top:20px;
+background-color:transparent;
+color:white;
+padding-bottom:10px;
+padding-top:10px;
+box-sizing:content-box;
+}
+.btn{
+  width: 117px;
+height: 42px;
+left: 217px;
+top: 209px;
+background: #FFFFFF;
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 5px;
+border-color:white;
+margin-top:20px;
+box-sizing:border-box;   
+ 
+}
+.btn:hover{
+cursor:pointer;  
+}
+
+.text-box{   
+width: 500px;
+height: 108.57px;
+left: 25px;
+top: 321px;
+background: #FFFFFF;
+border-radius: 4.68077px 0px 0px 0px;
+margin:0 auto;
+margin-left:25px;
+padding-bottom:0;
+margin-bottom:0; 
+}
+.main-text{
+width: 346px;
+height: 25px;
+left: 77px;
+top: 31px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+text-align: center;
+color: #5A537B;
+margin:0 auto;
+margin-top:20px;
+padding-top:10px;
+ padding-bottom:10px;
+}
+
+.answer{
+    
+    width: 346px;
+height: 25px;
+left: 77px;
+top: 65px;
+
+/* text-sm/leading-5/font-normal */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 20px;
+text-align: center;
+color: #353535;
+margin:0 auto;
+padding-bottom:0;
+margin-top:15px
+
+
+}
